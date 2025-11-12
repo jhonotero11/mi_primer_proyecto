@@ -4,3 +4,4 @@
 
 nombre = input("¿cómo te llamas?")
 print(f"¡Hola, {nombre}! Bienvenido a tu primer proyecto en Git Hub y Python")
+print(f"Tu nombre tiene {len(nombre)} letras.")
